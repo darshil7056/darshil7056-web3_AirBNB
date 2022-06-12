@@ -5,6 +5,7 @@
   width: 100vw;
   background-size: cover;
   z-index: -999;
+  overflow: hidden;
 }
 
 .containerGradinet {
